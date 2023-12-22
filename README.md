@@ -4,7 +4,7 @@
 
 
 
-🌱 I am a junior full stack developer, with great enthusiasm to grow 🌳 and continue learning.
+🌱 I am full stack developer, with great enthusiasm to grow 🌳 and continue learning.
 <img align="right" alt="Coding" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 
 
