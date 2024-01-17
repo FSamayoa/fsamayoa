@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 
 
-- Actualmente trabajando en mi portafolio
+- Actualmente trabajando en un proyecto sobre football americano en México
 - Apasionado por descubrir nuevas tecnologías.
 - En constante aprendizaje...
 - Busco colaborar en proyectos de desarrollo web front-end.
